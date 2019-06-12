@@ -2,7 +2,7 @@
 Experiments with Gradient Descent.
 ---
 
-![logo](https://github.com/alanchalk/aml_2019_gd/master/images/04a_loss_function.pdf)
+![fn_loss_](https://github.com/alanchalk/aml_2019_gd/blob/master/images/04a_loss_function.pdf)
 
 ## Introduction
 This is what this project is about
