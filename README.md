@@ -1,8 +1,8 @@
-# AML_2019 Coursework, Part 1, Group x_
-Experiments with Gradient Descent.
+# AML_2019 Coursework, Part 1, Group x
+Experiments with Gradient Descent
 ---
 
-![fn_loss](https://github.com/alanchalk/aml_2019_gd/blob/master/images/04a_loss_function.pdf)
+![fn_loss](https://github.com/alanchalk/aml_2019_gd/blob/master/images/04a_loss_function.png)
 
 ## Introduction
 This is what this project is about
