@@ -2,15 +2,9 @@
 Experiments with Gradient Descent
 ---
 
-I can use github markdown
-|![fn_loss](https://github.com/alanchalk/aml_2019_gd/blob/master/images/04a_loss_function.png)|
-|---|
-|A function with multiple local minima.  It does not have valleys or saddle points.|
-
-
-Or I can use html
+In your README.md file, you can include html to size and centre your figures.  
 <p align="center">
-  <img width="460" height="300" src="https://github.com/alanchalk/aml_2019_gd/blob/master/images/04a_loss_function.png">
+  <img width="600" height="400" src="https://github.com/alanchalk/aml_2019_gd/blob/master/images/04a_loss_function.png"/600/400>
 </p>
 
 ## Introduction
