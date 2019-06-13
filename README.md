@@ -10,7 +10,7 @@ This is what this project is about
 ## A section
 
 ## Another section
-Now we discuss and illustrate the function.  We might include some links or references [my interesting reference](http://jupyter.org/)
+Now we discuss and illustrate the function.  We might include some links or references, like [how to style your README.md file](https://sindresorhus.com/github-markdown-css/)
 
 ---
 ## Experiments
