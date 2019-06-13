@@ -5,6 +5,7 @@ Experiments with Gradient Descent
 In your README.md file, you can include html to size and centre your figures (but they will probably looks better if you create them with roughly the right aspect in python first.)
 <p align="center">
   <img width="600" height="400" src="https://github.com/alanchalk/aml_2019_gd/blob/master/images/04a_loss_function.png"/600/400>
+  <figcaption>something</figcaption>
 </p>
 
 ## Introduction
